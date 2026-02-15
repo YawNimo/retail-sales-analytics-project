@@ -38,18 +38,19 @@ The dataset contains:
 - Revenue and profit per order  
 - Product category and sub-category classifications  
 - Customer and geographic location details  
-- Monthly tracking via `Year_Month`  
+- Monthly time tracking  
 
 ---
 
-## 📊 Executive Summary (SQL-Based Insights)
+## 📊 Executive Summary (2020-2024)
 
-- Generated **$6.18M in total revenue** and **$1.61M in total profit**
-- Achieved an overall **profit margin of 26.05%**
-- **Office Supplies** was the highest revenue category ($2.09M)
-- **Furniture** had the highest profit margin (26.51%)
-- **New York** was the top-performing state by revenue ($1.13M)
-- **Markers** was the most profitable sub-category ($174,749 profit)
+- Generated **$5.93M in total revenue**
+- Produced **$1.53M in total profit**
+- Achieved an **overall profit margin of 25.86%**
+- Office Supplies generated the highest total revenue
+- Furniture maintained the strongest profit margin among categories
+- Florida and New York were top-performing states by profit
+- “Markers” was the most profitable sub-category
 
 ---
 ## Tools Used
@@ -57,4 +58,5 @@ The dataset contains:
 - MySQL (Queries)
 - Pivot Tables (Quick Summary)
 - Power BI (Visualization)
+  
 
