@@ -58,5 +58,9 @@ The dataset contains:
 - MySQL (Queries)
 - Pivot Tables (Quick Summary)
 - Power BI (Visualization)
+
+## 📊 Power BI Dashboard
+
+![Retail Dashboard](images/Retail_Sales_Dashboard.png)
   
 
